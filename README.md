@@ -1,3 +1,5 @@
+<div align="center">
+
 # DYNAMR
 
 ### Pathogen Dynamics of Antimicrobial Resistance
