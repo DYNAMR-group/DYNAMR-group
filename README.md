@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About us
+## About us
 
 We are a bioinformatics research group at the **[Malawi–Liverpool–Wellcome Research Programme](https://www.mlw.mw/)** (MLW) in Blantyre, Malawi.
 
@@ -23,7 +23,7 @@ Our work focuses on using genome sequencing and bioinformatics to better underst
 
 ---
 
-## 🔬 Research focus
+## Research focus
 
 |      | **Research area**        | **What we do**                                               |
 | ---- | ------------------------ | ------------------------------------------------------------ |
@@ -35,7 +35,7 @@ Our work focuses on using genome sequencing and bioinformatics to better underst
 
 ---
 
-## 📦 Repositories
+## Repositories
 
 | Repository                                                   | What it is                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -46,7 +46,7 @@ Our work focuses on using genome sequencing and bioinformatics to better underst
 
 
 
-## 🛠️ Toolkit
+## Toolkit
 
 We're not tied to any single language or workflow manager — we reach for whatever fits the problem. What you'll commonly find in our repos:
 
@@ -71,7 +71,7 @@ We're not tied to any single language or workflow manager — we reach for whate
 
 ---
 
-## 🚀 Getting started
+## Getting started
 
 **New here?** Start with **[`dynamr`](https://github.com/DYNAMR-group/dynamr)**. It explains what each pipeline does, how to run it, and how to use it on the MLW HPC cluster. Once you're familiar with the documentation, head over to **[`pipelines`](https://github.com/DYNAMR-group/pipelines)** to access the workflows themselves.
 
@@ -80,7 +80,7 @@ We're not tied to any single language or workflow manager — we reach for whate
 
 
 
-## 📫 Get in touch
+## Get in touch
 
 **[📧 info@mlw.mw](mailto:info@mlw.mw)**  ·  **[🌍 mlw.mw](https://www.mlw.mw)**
 
