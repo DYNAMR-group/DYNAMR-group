@@ -39,7 +39,6 @@ Our work focuses on using genome sequencing and bioinformatics to better underst
 
 | Repository                                                   | What it is                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[`dynamr`](https://github.com/DYNAMR-group/dynamr)**       | The main documentation site and entry point for our tools and pipelines. **Start here.** |
 | **[`pipelines`](https://github.com/DYNAMR-group/pipelines)** | Our collection of analysis pipelines, including Nextflow, Snakemake, and other workflows, with one folder for each pipeline. |
 
 ---
@@ -73,7 +72,7 @@ We're not tied to any single language or workflow manager — we reach for whate
 
 ## Getting started
 
-**New here?** Start with **[`dynamr`](https://github.com/DYNAMR-group/dynamr)**. It explains what each pipeline does, how to run it, and how to use it on the MLW HPC cluster. Once you're familiar with the documentation, head over to **[`pipelines`](https://github.com/DYNAMR-group/pipelines)** to access the workflows themselves.
+** You can start here **[`Projects`](https://github.com/DYNAMR-group/pipelines)** to access the project workflows themselves.
 
 ---
 
