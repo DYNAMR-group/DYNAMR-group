@@ -39,7 +39,7 @@ Our work focuses on using genome sequencing and bioinformatics to better underst
 
 | Repository                                                   | What it is                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[`Projects`](https://github.com/DYNAMR-group/Projects)** | Our collection of analysis pipelines, including Nextflow, Snakemake, and other workflows, with one folder for each pipeline. |
+| **[`Projects`](https://github.com/DYNAMR-group/Projects)** | Our collection of analysis pipelines, including Nextflow, Snakemake, and other workflows, with one folder for each project. |
 
 ---
 
