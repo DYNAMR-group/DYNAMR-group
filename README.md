@@ -72,7 +72,7 @@ We're not tied to any single language or workflow manager — we reach for whate
 
 ## Getting started
 
-**You can start here **[`Projects`](https://github.com/DYNAMR-group/pipelines)** to access the project workflows themselves.
+**You can start here** **[`Projects`](https://github.com/DYNAMR-group/pipelines)** to access the project workflows themselves.
 
 ---
 
